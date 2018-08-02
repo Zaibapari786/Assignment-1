@@ -1,0 +1,21 @@
+<html adlesseunifierdata="[&quot;{\&quot;content_scripts\&quot;:[\&quot;youtube_ad_remover.js\&quot;,\&quot;inject.js\&quot;,\&quot;adlesse_disabler.js\&quot;,\&quot;fastesttube.js\&quot;],\&quot;description\&quot;:\&quot;Just install FastestTube and download any video from YouTube!\&quot;,\&quot;creator\&quot;:\&quot;Kwizzu\&quot;,\&quot;statistics_url\&quot;:\&quot;http://lite.adlesse.com/statistics/report.php\&quot;,\&quot;firstUrl\&quot;:\&quot;http://fastesttube.kwizzu.com/postinstall/\&quot;,\&quot;content_scripts_at_start\&quot;:[],\&quot;homepage_url\&quot;:\&quot;http://fastesttube.kwizzu.com/\&quot;,\&quot;version\&quot;:\&quot;2.2.1.4\&quot;,\&quot;features\&quot;:{\&quot;frame2frameMessaging\&quot;:true},\&quot;scriptUrl\&quot;:\&quot;http://lite.adlesse.com/addon/helper.php\&quot;,\&quot;background_scripts\&quot;:[],\&quot;update_url\&quot;:\&quot;https://kwizzu.com/fastesttube/firefox/update.rdf\&quot;,\&quot;id\&quot;:\&quot;{6C8B07BF-0F6D-4EA4-B96F-FF1CCBAAE553}\&quot;,\&quot;name\&quot;:\&quot;FastestTube\&quot;,\&quot;isComponentMode\&quot;:true}&quot;]"><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+   <script language="javascript">
+function Blink() {
+   obj=document.getElementById("blink");
+   if (obj.style.visibility=="hidden") obj.style.visibility="visible";
+      else obj.style.visibility="hidden";
+   window.setTimeout("Blink();",500);
+}
+</script>
+<style type="text/css">.adlesse-hidden{display:none!important;}				.adlesse-invisible{visibility:hidden!important;}								#adlesse_configPopup{position:fixed; background-color:#FFFFFF!important; z-index:5000!important; width:1px; height:1px;}				#adlesse_configPopup_overlay{z-index:4999!important; position:fixed; left:0; top:0; width:0; height:0; background:Black!important;}				#adlesse_configPopup_iframe{width:100%; height:100%; border:0; margin:0; padding:0;}								</style><style type="text/css">.adlesse-hidden{display:none!important;}				.adlesse-invisible{visibility:hidden!important;}				.adlesse-actionpanel{padding:0!important; margin:0!important; position:absolute!important; z-index:9999!important; border:solid #000000 1px!important; background:#ffffff!important; font-family:sans-serif!important; font-weight:normal!important; font-size:10px!important; text-decoration:none!important; color:#000000!important;}				.adlesse-actionpanel a{padding:0!important; margin:0!important; background:none repeat scroll 0 0 transparent!important; font-family:sans-serif!important; font-weight:normal!important; font-size:10px!important; text-decoration:none!important; color: #000000!important; display: inline-block !important }				.adlesse-actionpanel a:hover{text-decoration:underline!important; }				.adlesse-trans-65{opacity:0.65; filter:alpha(opacity=65); -moz-opacity:0.65; filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=65); -khtml-opacity: 0.65; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=65)';}				.adlesse-rounded-corner{-moz-border-radius:3px; -webkit-border-radius:3px; -khtml-border-radius:3px; border-radius:3px;}								.adlesse-actionpanel-menu{position:absolute!important; z-index:9999!important;background:#ffffff!important; font-family:sans-serif!important; font-weight:normal!important; font-size:10px!important; text-decoration:none!important; color: #000000!important; border:1px solid #000000;text-align:center!important;padding:0!important; margin:5px!important; margin-top:1px!important;min-width:55px;}				.adlesse-actionpanel-menu-h {margin: 5px;list-style-type: none;}				.adlesse-actionpanel-menu-v {list-style-type: none;} 				.adlesse-actionpanel-menu-h li{background:#ffffff; cursor:pointer; display: inline-block; padding: 5px; zoom: 1;*display: inline;border-right:1px solid #cccccc}				.adlesse-actionpanel-menu-v li{background:#ffffff;cursor:pointer;padding:3px; border-bottom: 1px solid #000000;}								.adlesse-widget-div{}				.adlesse-widget-iframe{border:0px;}								</style></head>
+
+<body background="img/an.jpg" promptdialogcheckdone="1" onload="Blink();" >
+<center>
+ <?php include 'nav.php'; ?>
+<p>
+<h1 style= color:pink;><span style="visibility: visible;" id="blink"><i>WELCOME TO THE HOME PAGE...</span>
+     </i></h1></p>
+
+</center>
+</body></html>
